@@ -1,0 +1,64 @@
+h1{
+    color: palevioletred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color:  #d88070;
+    font-family: 'calibri', 'Arial Narrow', Arial, sans-serif
+}
+
+
+h2{
+    color: #d88070;
+    font-family: 'calibri', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    color: #d88070;
+    font-family: 'calibri', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-weight: 800;
+    text-decoration: none;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 1px;
+    border-style: solid;
+    border-color: blue;
+}
+
+th{
+    font-weight: 800;
+    background-color: aqua;
+    color: black;
+    text-align: left;
+}
+
+tr.alt td{
+    background-color: #f2f2f2;
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    color: #d88070;
+    text-decoration: none;
+    background-color: aquamarine;
+    font-family: Helvetica, sans-serif;
+    padding: 5px;
+}
+#menu-bar a:hover{
+    color: #ffffff;
+    background-color: aquamarine;
+}
